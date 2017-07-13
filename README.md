@@ -1,5 +1,8 @@
 # UoPeople-CS-1102-FirstSubRoutines
 UoPeople Programming
+@author  Eugene Vereshchagin (g7skim)
+@email   jamuday@me.com
+@since   2017-07-13 
 
 The program is a part of the ‘firstsubroutines’ class.ffffffff
 
