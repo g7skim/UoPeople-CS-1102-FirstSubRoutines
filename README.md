@@ -7,7 +7,7 @@ UoPeople Programming
 
 @since   2017-07-13 
 
-The program is a part of the ‘firstsubroutines’ class.ffffffff
+The program is a part of the ‘firstsubroutines’ class.
 
 The program prompt the user to enter a string. The program then test the string entered by the user to determine
 whether it is a palindrome. 
